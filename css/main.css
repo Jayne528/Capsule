@@ -1174,7 +1174,7 @@ button {
 
 .boxa {
   position: relative;
-  margin: 5% auto;
+  margin: 5% auto 0 auto;
   width: 40%;
   padding-bottom: 40%;
   background: #EE6A82;
@@ -1391,8 +1391,8 @@ button {
   .ball-bar {
     position: absolute;
     width: 95%;
-    padding-bottom: 10%;
-    bottom: -22%;
+    padding-bottom: 9%;
+    bottom: -21%;
     margin: 0 2.5%;
     background: #EE6A82;
     z-index: 30; }
